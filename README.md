@@ -10,6 +10,12 @@ Discover the art of extracting meaningful insights from data through Exploratory
 This project aims to tackle the intricate task of deciphering complex datasets by utilizing EDA with SQL queries in Jupyter Notebook. Through this approach, we seek to streamline data comprehension, enabling effective decision-making by uncovering valuable patterns and trends.
 
 # Our Approach For The Project
+![Capture25](https://github.com/Ashraf7474/Olist_E-commerce_Data_Analysis/assets/131772000/84f6500c-aa05-45ad-a39b-baa60e010656)
+
+# Data Dictionary
+![Capture26](https://github.com/Ashraf7474/Olist_E-commerce_Data_Analysis/assets/131772000/c5bba819-b09f-478d-a9ef-b406e4c62c0c)
+
+
 
 
 
