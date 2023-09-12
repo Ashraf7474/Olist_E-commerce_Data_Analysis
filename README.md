@@ -98,6 +98,9 @@ Power BI Integration: Transition to Power BI for interactive visualization, enab
 **6. States with the Highest Order Count:**
    - CE and SC states have the highest order counts compared to other states.
 
+
+# Conclusion
+
 In summary, the data indicates a recurring pattern of high order volumes in August, with "Bed, Bath, and Table" being the most ordered category in many cities. Credit cards are the preferred payment method for the majority of customers. The SP state leads in revenue generation, while AC and RR states have the highest average order values. CE and SC states top the list in terms of order counts.
 
 
