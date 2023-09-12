@@ -36,7 +36,7 @@ Power BI Integration: Transition to Power BI for interactive visualization, enab
 ![Capture27](https://github.com/Ashraf7474/Olist_E-commerce_Data_Analysis/assets/131772000/2b5ccac9-d6bb-41bd-95ba-8fc0149bcb4f)
 
 
-# Olist Database Analysis by using SQL Query
+# Exploratory Data Analysis Analysis by using SQL Query
 
 # order volume vary across different months
 ![Capture28](https://github.com/Ashraf7474/Olist_E-commerce_Data_Analysis/assets/131772000/e0b28d1b-e79c-47a7-b921-c8dac1f43d87)
