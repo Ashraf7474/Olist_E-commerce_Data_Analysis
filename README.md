@@ -44,22 +44,6 @@ Power BI Integration: Transition to Power BI for interactive visualization, enab
 # Data Dictionary
 ![Capture26](https://github.com/Ashraf7474/Olist_E-commerce_Data_Analysis/assets/131772000/c5bba819-b09f-478d-a9ef-b406e4c62c0c)
 
-# Methodology
-Our approach revolves around a systematic blend of SQL queries and data analysis within the Jupyter Notebook environment. This structured methodology encompasses the following key steps:
-
-Data Exploration: Delve into the Olist E-commerce database to understand the structure and content of the interconnected tables.
-
-SQL Query Formulation: Craft targeted SQL queries to retrieve specific subsets of data relevant to our analysis goals.
-
-Data Preprocessing: Cleanse and transform the retrieved data, ensuring its suitability for meaningful analysis.
-
-Exploratory Data Analysis (EDA): Employ SQL queries to perform exploratory analysis, including aggregations, joins, and calculations.
-
-Insights Generation: Extract actionable insights and trends from the EDA results, unraveling patterns that shed light on customer behaviors, product performance, and business dynamics.
-
-Visualization and Presentation: Visualize the extracted insights using Python libraries, enhancing data interpretation.
-
-Power BI Integration: Transition to Power BI for interactive visualization, enabling dynamic exploration and storytelling.
 
 # Database Connection Snapshot
 ![Capture27](https://github.com/Ashraf7474/Olist_E-commerce_Data_Analysis/assets/131772000/2b5ccac9-d6bb-41bd-95ba-8fc0149bcb4f)
