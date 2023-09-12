@@ -59,9 +59,34 @@ Power BI Integration: Transition to Power BI for interactive visualization, enab
 # order status (e.g., delivered, shipped, canceled) vary across different product categories or sellers¶
 ![Capture36](https://github.com/Ashraf7474/Olist_E-commerce_Data_Analysis/assets/131772000/d01df130-cafa-494b-91fc-ef2b6a8c365c)
 
-# --Dashboard--
+# Dashboard
 
 ![DashBoard Image](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/a52e7048-0769-4ab9-abd2-51f05a0f1bea)
+
+# Insight
+
+**1. Monthly Order Volume:**
+   - August consistently records the highest order volume every year.
+   - July and May are the months following August with the next highest order volumes.
+
+**2. Most Ordered Category:**
+   - In most cities, the "Bed, Bath, and Table" category receives the highest number of orders.
+
+**3. Payment Method:**
+   - Approximately 74 percent of customers prefer using credit cards for payment when making their purchases.
+
+**4. Highest Revenue Generating State:**
+   - In the SP state, sellers have generated the highest revenue compared to other states.
+
+**5. Highest Average Order Value by State:**
+   - AC state holds the highest average order value at $181.7.
+   - RR state follows closely as the second highest with an average order value of $168.2.
+
+**6. States with the Highest Order Count:**
+   - CE and SC states have the highest order counts compared to other states.
+
+In summary, the data indicates a recurring pattern of high order volumes in August, with "Bed, Bath, and Table" being the most ordered category in many cities. Credit cards are the preferred payment method for the majority of customers. The SP state leads in revenue generation, while AC and RR states have the highest average order values. CE and SC states top the list in terms of order counts.
+
 
 
 
