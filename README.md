@@ -104,6 +104,19 @@ Power BI Integration: Transition to Power BI for interactive visualization, enab
 In summary, the data indicates a recurring pattern of high order volumes in August, with "Bed, Bath, and Table" being the most ordered category in many cities. Credit cards are the preferred payment method for the majority of customers. The SP state leads in revenue generation, while AC and RR states have the highest average order values. CE and SC states top the list in terms of order counts.
 
 
+# challenges Faced
+
+In our EDA project centered on the Olist E-commerce database, we encountered several significant challenges. The dataset's complexity, with multiple interconnected tables, posed an initial hurdle, demanding a deep understanding of its structure.
+
+Data cleaning and preprocessing were time-consuming due to the dataset's size and diversity, requiring meticulous attention to detail to ensure data quality.
+
+Efficient SQL query formulation was essential for extracting insights from the extensive dataset, necessitating ongoing optimization to reduce query execution times.
+
+Conducting meaningful exploratory data analysis with SQL queries demanded domain expertise and a meticulous approach to uncover valuable patterns.
+
+Transitioning to visualization tools like Power BI presented integration challenges, requiring careful planning to create an interactive and insightful data representation
+
+
 
 
 
