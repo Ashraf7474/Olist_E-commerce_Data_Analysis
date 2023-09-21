@@ -11,7 +11,7 @@
 
 Discover the art of extracting meaningful insights from data through Exploratory Data Analysis (EDA) using SQL queries in Jupyter Notebook. Uncover hidden patterns, correlations, and trends within your dataset, and witness the transformation of raw data into actionable insights. Join us as we embark on a journey of data exploration and visualization, ultimately empowering informed decision-making.
 
-# --Problem aimed to solve--
+# --Problem aimed to solve-- 
 
 This project aims to tackle the intricate task of deciphering complex datasets by utilizing EDA with SQL queries in Jupyter Notebook. Through this approach, we seek to streamline data comprehension, enabling effective decision-making by uncovering valuable patterns and trends.
 
