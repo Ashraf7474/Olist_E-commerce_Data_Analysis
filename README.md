@@ -9,7 +9,7 @@
 
 # Data Dictionary
 ![Capture26](https://github.com/Ashraf7474/Olist_E-commerce_Data_Analysis/assets/131772000/c5bba819-b09f-478d-a9ef-b406e4c62c0c)
-
+ 
 # --Introduction--
 
 Discover the art of extracting meaningful insights from data through Exploratory Data Analysis (EDA) using SQL queries in Jupyter Notebook. Uncover hidden patterns, correlations, and trends within your dataset, and witness the transformation of raw data into actionable insights. Join us as we embark on a journey of data exploration and visualization, ultimately empowering informed decision-making.
